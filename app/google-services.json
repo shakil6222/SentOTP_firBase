@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "91630814389",
+    "project_id": "sentotp-firbase",
+    "storage_bucket": "sentotp-firbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91630814389:android:f97d1a524a551974cdaafc",
+        "android_client_info": {
+          "package_name": "com.example.sentotp_firbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91630814389-9qodm1cbidbqat2gir70u8pqvihbk2rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sentotp_firbase",
+            "certificate_hash": "0b40864023f5fbd605030e544d1c39144620694b"
+          }
+        },
+        {
+          "client_id": "91630814389-qrrona72b076kqodgmu7nauj0e7777fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuKjlRlZkZtgJWNY_rHferheZqB8e2lc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91630814389-qrrona72b076kqodgmu7nauj0e7777fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

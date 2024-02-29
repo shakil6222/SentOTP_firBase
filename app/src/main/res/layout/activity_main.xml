@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_marginHorizontal="20sp"
+        android:layout_marginTop="20sp"
+        android:id="@+id/editNumber_EditText"
+        android:layout_height="wrap_content"
+        android:hint="User Number"
+         />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_marginTop="20sp"
+        android:id="@+id/btn_SendOTP_Button"
+        android:text="Send PTP"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_marginHorizontal="20sp"
+        android:layout_marginTop="20sp"
+        android:id="@+id/btn_vryfyOTP_EditText"
+        android:layout_height="wrap_content"
+        android:hint="veryfy otp"
+         />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_marginTop="20sp"
+        android:id="@+id/btn_veryfy_Button"
+        android:text="Send PTP"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
